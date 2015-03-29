@@ -1,0 +1,9 @@
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\bin\Debug\inMobi.exe.config
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\bin\Debug\inMobi.exe
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\bin\Debug\inMobi.pdb
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\bin\Debug\inMobi.xml
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobi.Resources.resources
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobiTest.vbproj.GenerateResource.Cache
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobi.exe
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobi.xml
+D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobi.pdb

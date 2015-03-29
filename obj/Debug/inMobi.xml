@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+inMobi
+</name>
+</assembly>
+<members>
+<member name="P:inMobi.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:inMobi.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:inMobi.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:inMobi.JsonHelper.JsonSerializer``1(``0)">
+	<summary>
+ JSON Serialization
+ </summary>
+</member><member name="M:inMobi.JsonHelper.JsonDeserialize``1(System.String)">
+	<summary>
+ JSON Deserialization
+ </summary>
+</member><member name="M:inMobi.JsonHelper.ConvertJsonDateToDateString(System.Text.RegularExpressions.Match)">
+	<summary>
+ Convert Serialization Time /Date(1319266795390+0800) as String
+ </summary>
+</member><member name="M:inMobi.JsonHelper.ConvertDateStringToJsonDate(System.Text.RegularExpressions.Match)">
+	<summary>
+ Convert Date String as Json Time
+ </summary>
+</member><member name="T:inMobi.JsonHelper">
+	<summary>
+ JSON Serialization and Deserialization Assistant ClassS
+ </summary>
+</member>
+</members>
+</doc>
