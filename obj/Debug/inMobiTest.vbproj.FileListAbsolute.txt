@@ -7,3 +7,7 @@ D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobiTest.v
 D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobi.exe
 D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobi.xml
 D:\Lou\Development\Mobile\iPhone\iTeamz\inMobi\inMobiTest\obj\Debug\inMobi.pdb
+C:\Lou\Development\Mobile\iPhone\iTeamz\inMobiTest\inMobiTest\bin\Debug\inMobi.exe.config
+C:\Lou\Development\Mobile\iPhone\iTeamz\inMobiTest\inMobiTest\obj\Debug\inMobi.exe
+C:\Lou\Development\Mobile\iPhone\iTeamz\inMobiTest\inMobiTest\obj\Debug\inMobi.xml
+C:\Lou\Development\Mobile\iPhone\iTeamz\inMobiTest\inMobiTest\obj\Debug\inMobi.pdb
